@@ -57,6 +57,11 @@
   scroll-behavior: smooth;
 }
 
+/* Classes utilitaires */
+.hidden-section {
+  display: none;
+}
+
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
 --------------------------------------------------------------*/
