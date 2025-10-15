@@ -1,0 +1,118 @@
+﻿IDENTIFIANT	SSTR	Identifiant	Identifiant	Identifiant	Identifiant
+AGE	INTE	Âge	Age	Âge	Age
+GENDER	SSTR	Sexe	Gender	Sexe	Gender
+AREA	SSTR	Zone	Area	Zone	Area
+REGION	SSTR	Région	Region	Région	Region
+DISTRICT	SSTR	District	District	District	District
+DEPARTMENT	SSTR	Département	Department	Département	Department
+MUNICIPALITY	SSTR	Commune	Municipality	Commune	Municipality
+VILLAGE	INTE	Village	Village	Village	Village
+NEIGHBORHOOD	SSTR	Quartier	Neighborhood	Quartier	Neighborhood
+EDUCATION_LEVEL	SSTR	Niveau d'instruction	Education Level	Niveau d'instruction	Education_level
+DIPLOMA	SSTR	Diplôme	Diploma	Diplôme	Diploma
+OCCUPATION	SSTR	Profession	Occupation	Profession	Occupation
+ACTIVITY_PRINCIPALE	SSTR	Activité principale	Activity principale	Activité principale	Activity principale
+INCOME_MENSUEL_DE_L_ACTIVITY_PRINCIPALE	INTE	Revenu mensuel de l'activité principale	Income mensuel de l'activity principale	Revenu mensuel de l'activité principale	Income mensuel de l'activity principale
+ACTIVITY_SECONDARY	SSTR	Activité secondaire	Activity secondary	Activité secondaire	Activity secondary
+INCOME_MENSUEL_DE_L_ACTIVITY_SECONDARY	INTE	Revenu mensuel de l'activité secondaire	Income mensuel de l'activity secondary	Revenu mensuel de l'activité secondaire	Income mensuel de l'activity secondary
+INCOME_MENSUEL_TOTAL	INTE	Revenu mensuel total	Income mensuel total	Revenu mensuel total	Income mensuel total
+POSSESSION_BANK_ACCOUNT	SSTR	Possession compte bancaire	Possession bank Account	Possession compte bancaire	Possession bank_account
+NAME_DE_LA_BANK	SSTR	Nom de la banque	Name de la bank	Nom de la banque	Name de la bank
+TYPE_DE_BANK_ACCOUNT	SSTR	Type de compte bancaire	Type de bank Account	Type de compte bancaire	Type de bank_account
+DURATION_POSSESSION_COMPTE	SSTR	Durée possession compte	Duration possession compte	Durée possession compte	Duration possession compte
+FREQUENCY_UTILISATION_COMPTE	SSTR	Fréquence utilisation compte	Frequency utilisation compte	Fréquence utilisation compte	Frequency utilisation compte
+SATISFACTION_VIS	INTE	Satisfaction vis	Satisfaction vis	Satisfaction vis-à-vis de la qualité générale des produits offerts	Satisfaction vis-a-vis de la quality generale des produits offerts
+SATISFACTION_QUALITY_SERVICE_ACCUEIL	INTE	Satisfaction qualité service accueil	Satisfaction quality service accueil	Satisfaction qualité service accueil	Satisfaction quality service accueil
+SATISFACTION_QUALITY_SERVICE_CONSEIL	INTE	Satisfaction qualité service conseil	Satisfaction quality service conseil	Satisfaction qualité service conseil	Satisfaction quality service conseil
+SATISFACTION_DELAI_TRAITEMENT_DEMANDE	INTE	Satisfaction délai traitement demande	Satisfaction delai traitement demande	Satisfaction délai traitement demande	Satisfaction delai traitement demande
+SATISFACTION_COST_SERVICES_BANCAIRES	INTE	Satisfaction coût services bancaires	Satisfaction cost services bancaires	Satisfaction coût services bancaires	Satisfaction cost services bancaires
+UTILISATION_MOBILE_MONEY	TELP	Utilisation mobile money	Utilisation mobile Money	Utilisation mobile money	Utilisation mobile_money
+OPERATEUR_MOBILE_MONEY	TELP	Opérateur mobile money	Operateur mobile Money	Opérateur mobile money	Operateur mobile_money
+FREQUENCY_UTILISATION_MOBILE_MONEY	TELP	Fréquence utilisation mobile money	Frequency utilisation mobile Money	Fréquence utilisation mobile money	Frequency utilisation mobile_money
+AMOUNT_MOYEN_TRANSACTION_MOBILE_MONEY	TELP	Montant moyen transaction mobile money	Amount moyen transaction mobile Money	Montant moyen transaction mobile money	Amount moyen transaction mobile_money
+TYPE_TRANSACTION_MOBILE_MONEY	TELP	Type transaction mobile money	Type transaction mobile Money	Type transaction mobile money	Type transaction mobile_money
+POSSESSION_CREDIT	SSTR	Possession crédit	Possession credit	Possession crédit	Possession credit
+TYPE_CREDIT	SSTR	Type crédit	Type credit	Type crédit	Type credit
+AMOUNT_CREDIT	INTE	Montant crédit	Amount credit	Montant crédit	Amount credit
+DURATION_REMBOURSEMENT_CREDIT	SSTR	Durée remboursement crédit	Duration remboursement credit	Durée remboursement crédit	Duration remboursement credit
+RATE_INTERET_CREDIT	DECI	Taux intérêt crédit	Rate interet credit	Taux intérêt crédit	Rate interet credit
+SATISFACTION_CONDITIONS_CREDIT	INTE	Satisfaction conditions crédit	Satisfaction conditions credit	Satisfaction conditions crédit	Satisfaction conditions credit
+POSSESSION_SAVINGS	SSTR	Possession épargne	Possession savings	Possession épargne	Possession savings
+TYPE_COMPTE_SAVINGS	SSTR	Type compte épargne	Type compte savings	Type compte épargne	Type compte savings
+AMOUNT_EPARGNE	INTE	Montant épargné	Amount epargne	Montant épargné	Amount epargne
+FREQUENCY_DEPOT_SAVINGS	SSTR	Fréquence dépôt épargne	Frequency depot savings	Fréquence dépôt épargne	Frequency depot savings
+OBJECTIF_SAVINGS	SSTR	Objectif épargne	Objectif savings	Objectif épargne	Objectif savings
+POSSESSION_INSURANCE	SSTR	Possession assurance	Possession insurance	Possession assurance	Possession insurance
+TYPE_INSURANCE	SSTR	Type assurance	Type insurance	Type assurance	Type insurance
+AMOUNT_PRIME_INSURANCE	INTE	Montant prime assurance	Amount prime insurance	Montant prime assurance	Amount prime insurance
+SATISFACTION_COUVERTURE_INSURANCE	INTE	Satisfaction couverture assurance	Satisfaction couverture insurance	Satisfaction couverture assurance	Satisfaction couverture insurance
+CONNAISSANCE_PRODUITS_FINANCIERS	DATE	Connaissance produits financiers	Connaissance produits financiers	Connaissance produits financiers	Connaissance produits financiers
+UTILISATION_SERVICES_BANCAIRES_EN_LIGNE	SSTR	Utilisation services bancaires en ligne	Utilisation services bancaires en ligne	Utilisation services bancaires en ligne	Utilisation services bancaires en ligne
+SATISFACTION_SERVICES_EN_LIGNE	INTE	Satisfaction services en ligne	Satisfaction services en ligne	Satisfaction services en ligne	Satisfaction services en ligne
+NUMBER_VISITES_AGENCE_PAR_MONTH	INTE	Nombre visites agence par mois	Number visites agence par month	Nombre visites agence par mois	Number visites agence par month
+DISTANCE_DOMICILE_AGENCE	INTE	Distance domicile agence	Distance domicile agence	Distance domicile agence	Distance domicile agence
+TEMPS_TRAJET_DOMICILE_AGENCE	INTE	Temps trajet domicile agence	Temps trajet domicile agence	Temps trajet domicile agence	Temps trajet domicile agence
+PREFERENCE_CANAL_SERVICE	SSTR	Préférence canal service	Preference canal service	Préférence canal service	Preference canal service
+RAISON_NON_POSSESSION_BANK_ACCOUNT	SSTR	Raison non possession compte bancaire	Raison non possession bank Account	Raison non possession compte bancaire	Raison non possession bank_account
+OBSTACLE_MAIN_ACCES_SERVICES_FINANCIERS	SSTR	Obstacle principal accès services financiers	Obstacle main acces services financiers	Obstacle principal accès services financiers	Obstacle main acces services financiers
+INTERET_OUVERTURE_BANK_ACCOUNT	SSTR	Intérêt ouverture compte bancaire	Interet ouverture bank Account	Intérêt ouverture compte bancaire	Interet ouverture bank_account
+TYPE_COMPTE_SOUHAITE	SSTR	Type compte souhaité	Type compte souhaite	Type compte souhaité	Type compte souhaite
+AMOUNT_MINIMUM_SOUHAITE	INTE	Montant minimum souhaité	Amount minimum souhaite	Montant minimum souhaité	Amount minimum souhaite
+SERVICES_BANCAIRES_SOUHAITES	SSTR	Services bancaires souhaités	Services bancaires souhaites	Services bancaires souhaités	Services bancaires souhaites
+NUMBER_PERSONNES_MENAGE	INTE	Nombre personnes ménage	Number personnes menage	Nombre personnes ménage	Number personnes menage
+NUMBER_ENFANTS_CHARGE	INTE	Nombre enfants charge	Number enfants charge	Nombre enfants charge	Number enfants charge
+STATUS_MATRIMONIAL	SSTR	Statut matrimonial	Status matrimonial	Statut matrimonial	Status matrimonial
+TYPE_LOGEMENT	SSTR	Type logement	Type logement	Type logement	Type logement
+POSSESSION_VEHICULE	SSTR	Possession véhicule	Possession vehicule	Possession véhicule	Possession vehicule
+TYPE_VEHICULE	SSTR	Type véhicule	Type vehicule	Type véhicule	Type vehicule
+ACCES_INTERNET	SSTR	Accès internet	Acces internet	Accès internet	Acces internet
+EQUIPEMENT_INFORMATIQUE	SSTR	Équipement informatique	Equipement informatique	Équipement informatique	Equipement informatique
+POSSESSION_TELEPHONE_MOBILE	TELP	Possession téléphone mobile	Possession telephone mobile	Possession téléphone mobile	Possession telephone mobile
+TYPE_TELEPHONE	TELP	Type téléphone	Type telephone	Type téléphone	Type telephone
+NUMBER_LIGNES_TELEPHONIQUES	INTE	Nombre lignes téléphoniques	Number lignes telephoniques	Nombre lignes téléphoniques	Number lignes telephoniques
+EMAIL	EMAL	Email	Email	Email	Email
+TELEPHONE_MAIN	TELP	Téléphone principal	Telephone main	Téléphone principal	Telephone main
+TELEPHONE_SECONDARY	TELP	Téléphone secondaire	Telephone secondary	Téléphone secondaire	Telephone secondary
+DATE_ENQUETE	DATE	Date enquête	Date enquete	Date enquête	Date enquete
+HEURE_DEBUT_ENQUETE	DATI	Heure début enquête	Heure debut enquete	Heure début enquête	Heure debut enquete
+HEURE_FIN_ENQUETE	DATI	Heure fin enquête	Heure fin enquete	Heure fin enquête	Heure fin enquete
+NAME_ENQUETEUR	SSTR	Nom enquêteur	Name enqueteur	Nom enquêteur	Name enqueteur
+CODE_ENQUETEUR	SSTR	Code enquêteur	Code enqueteur	Code enquêteur	Code enqueteur
+SUPERVISEUR	SSTR	Superviseur	Superviseur	Superviseur	Superviseur
+OBSERVATIONS	LSTR	Observations	Observations	Observations	Observations
+COMMENTAIRES_ADDITIONNELS	LSTR	Commentaires additionnels	Commentaires additionnels	Commentaires additionnels	Commentaires additionnels
+BESOINS_FINANCIERS_PRIORITAIRES	SSTR	Besoins financiers prioritaires	Besoins financiers prioritaires	Besoins financiers prioritaires	Besoins financiers prioritaires
+PROJETS_FUTURS_NECESSITANT_FINANCEMENT	SSTR	Projets futurs nécessitant financement	Projets futurs necessitant financement	Projets futurs nécessitant financement	Projets futurs necessitant financement
+SOURCE_INFORMATION_SERVICES_FINANCIERS	SSTR	Source information services financiers	Source information services financiers	Source information services financiers	Source information services financiers
+CONFIANCE_INSTITUTIONS_FINANCIERES	SSTR	Confiance institutions financières	Confiance institutions financieres	Confiance institutions financières	Confiance institutions financieres
+UTILISATION_CREDIT_INFORMEL	SSTR	Utilisation crédit informel	Utilisation credit informel	Utilisation crédit informel	Utilisation credit informel
+AMOUNT_CREDIT_INFORMEL	INTE	Montant crédit informel	Amount credit informel	Montant crédit informel	Amount credit informel
+SOURCE_CREDIT_INFORMEL	SSTR	Source crédit informel	Source credit informel	Source crédit informel	Source credit informel
+RATE_INTERET_CREDIT_INFORMEL	DECI	Taux intérêt crédit informel	Rate interet credit informel	Taux intérêt crédit informel	Rate interet credit informel
+PARTICIPATION_TONTINE	SSTR	Participation tontine	Participation tontine	Participation tontine	Participation tontine
+AMOUNT_COTISATION_TONTINE	INTE	Montant cotisation tontine	Amount cotisation tontine	Montant cotisation tontine	Amount cotisation tontine
+FREQUENCY_COTISATION_TONTINE	SSTR	Fréquence cotisation tontine	Frequency cotisation tontine	Fréquence cotisation tontine	Frequency cotisation tontine
+NUMBER_MEMBRES_TONTINE	INTE	Nombre membres tontine	Number membres tontine	Nombre membres tontine	Number membres tontine
+ROLE_TONTINE	SSTR	Rôle tontine	Role tontine	Rôle tontine	Role tontine
+DIFFICULTE_ECONOMIQUE_RECENTE	SSTR	Difficulté économique récente	Difficulte economique recente	Difficulté économique récente	Difficulte economique recente
+NATURE_DIFFICULTE_ECONOMIQUE	SSTR	Nature difficulté économique	Nature difficulte economique	Nature difficulté économique	Nature difficulte economique
+IMPACT_DIFFICULTE_ECONOMIQUE	SSTR	Impact difficulté économique	Impact difficulte economique	Impact difficulté économique	Impact difficulte economique
+STRATEGIE_ADAPTATION_DIFFICULTE	SSTR	Stratégie adaptation difficulté	Strategie adaptation difficulte	Stratégie adaptation difficulté	Strategie adaptation difficulte
+AIDE_RECUE_DIFFICULTE	SSTR	Aide reçue difficulté	Aide recue difficulte	Aide reçue difficulté	Aide recue difficulte
+SOURCE_AIDE_RECUE	SSTR	Source aide reçue	Source aide recue	Source aide reçue	Source aide recue
+TRAINING_FINANCE_PERSONNELLE	SSTR	Formation finance personnelle	Training finance personnelle	Formation finance personnelle	Training finance personnelle
+INTERET_TRAINING_FINANCE	SSTR	Intérêt formation finance	Interet training finance	Intérêt formation finance	Interet training finance
+THEMES_TRAINING_SOUHAITES	SSTR	Thèmes formation souhaités	Themes training souhaites	Thèmes formation souhaités	Themes training souhaites
+LANGUE_PREFEREE_SERVICE	SSTR	Langue préférée service	Langue preferee service	Langue préférée service	Langue preferee service
+NIVEAU_COMPREHENSION_FRANCAIS	SSTR	Niveau compréhension français	Niveau comprehension francais	Niveau compréhension français	Niveau comprehension francais
+NIVEAU_COMPREHENSION_LANGUE_LOCALE	SSTR	Niveau compréhension langue locale	Niveau comprehension langue locale	Niveau compréhension langue locale	Niveau comprehension langue locale
+ALPHABETISATION	SSTR	Alphabétisation	Alphabetisation	Alphabétisation	Alphabetisation
+CAPACITE_CALCUL_MATHEMATIQUE	SSTR	Capacité calcul mathématique	Capacite calcul mathematique	Capacité calcul mathématique	Capacite calcul mathematique
+CONNAISSANCE_DROITS_CONSOMMATEUR	DATE	Connaissance droits consommateur	Connaissance droits consommateur	Connaissance droits consommateur	Connaissance droits consommateur
+UTILISATION_COMPARATEUR_SERVICES_FINANCIERS	DECI	Utilisation comparateur services financiers	Utilisation comparateur services financiers	Utilisation comparateur services financiers	Utilisation comparateur services financiers
+CHANGEMENT_BANK_RECENT	SSTR	Changement banque récent	Changement bank recent	Changement banque récent	Changement bank recent
+RAISON_CHANGEMENT_BANK	SSTR	Raison changement banque	Raison changement bank	Raison changement banque	Raison changement bank
+RECLAMATION_SERVICE_BANCAIRE	SSTR	Réclamation service bancaire	Reclamation service bancaire	Réclamation service bancaire	Reclamation service bancaire
+NATURE_RECLAMATION	SSTR	Nature réclamation	Nature reclamation	Nature réclamation	Nature reclamation
+TRAITEMENT_RECLAMATION	SSTR	Traitement réclamation	Traitement reclamation	Traitement réclamation	Traitement reclamation
+SATISFACTION_TRAITEMENT_RECLAMATION	INTE	Satisfaction traitement réclamation	Satisfaction traitement reclamation	Satisfaction traitement réclamation	Satisfaction traitement reclamation
