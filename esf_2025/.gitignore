@@ -1,0 +1,12 @@
+# Build artifacts
+MappingGenerator/bin/
+MappingGenerator/obj/
+MappingGenerator/*.dll
+MappingGenerator/*.exe
+MappingGenerator/*.pdb
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
